@@ -23,3 +23,12 @@ $npm install -g serve
 $serve -s build
 ```
 *ref. [Ways of Deployment](https://facebook.github.io/create-react-app/docs/deployment)<br>
+
+## React App Front-end deploy via github Pages
+
+<p align="center">
+  <img width="80%" src="./DeployReactApp.png">
+  <br>Deploy React App with github pages
+</p>
+
+*ref. [Deploy React to GitHub-Pages to create an amazing website!](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
