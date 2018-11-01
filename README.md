@@ -20,8 +20,15 @@ $yarn build
 serve? using static server for environment using Node<br>
 ```
 $npm install -g serve
+```
+
+Run React App via build folder you build at step 2.
+```
 $serve -s build
 ```
+
+Now you connect React App you made by EC2 public ip on Web.
+
 *ref. [Ways of Deployment](https://facebook.github.io/create-react-app/docs/deployment)<br>
 
 ## React App Front-end deploy via github Pages
