@@ -1,12 +1,14 @@
-# Deploy using Github and AWS EC2/S3
-The basic way to deploy React App via Github and AWS
+# Deploy
+
+## Deploy using Github and AWS EC2/S3
+The basic way to deploy App via Github and AWS
 
 <p align="center">
   <img width="80%" src="./DeployBasic.png">
   <br>Deploy using EC2 and S3 of AWS
 </p>
 
-## Deploy Sequence with Command-line Interface
+### Sequence to build and run React App via AWS EC2 server 
 <b>1. Create-react-app</b><br>
 React project development<br>
 
@@ -31,7 +33,7 @@ Now you connect React App you made by EC2 public ip on Web.
 
 *ref. [Ways of Deployment](https://facebook.github.io/create-react-app/docs/deployment)<br>
 
-## React App Front-end deploy via github Pages
+## React App Front-end deploy only, via github Pages
 
 <p align="center">
   <img width="80%" src="./DeployReactApp.png">
